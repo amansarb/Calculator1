@@ -218,7 +218,7 @@ namespace Calculator
 
         private void button5_Click(object sender, EventArgs e)
         {
-            TextBox1.Text = "";
+            TextBox1.Text = " ";
         }
 
         private void button4_Click(object sender, EventArgs e)
